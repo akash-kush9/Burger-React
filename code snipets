@@ -1,0 +1,19 @@
+import React from "react";
+
+const burgerIngredient = (props) => {};
+
+export default burgerIngredient;
+
+
+
+.BreadBottom
+.BreadTop 
+.Seeds1 
+.Seeds1:after 
+.Seeds1:before 
+.Seeds2 
+.Seeds2:before 
+.Meat
+.Cheese 
+.Salad 
+.Bacon 
